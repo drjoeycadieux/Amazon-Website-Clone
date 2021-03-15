@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://drjoeycadieux.github.io/csb-itvkl/static/css/main.44757ba9.chunk.css",
+    "main.js": "https://drjoeycadieux.github.io/csb-itvkl/static/js/main.a594332b.chunk.js",
+    "main.js.map": "https://drjoeycadieux.github.io/csb-itvkl/static/js/main.a594332b.chunk.js.map",
+    "runtime-main.js": "https://drjoeycadieux.github.io/csb-itvkl/static/js/runtime-main.b9428b6d.js",
+    "runtime-main.js.map": "https://drjoeycadieux.github.io/csb-itvkl/static/js/runtime-main.b9428b6d.js.map",
+    "static/js/2.44bc2482.chunk.js": "https://drjoeycadieux.github.io/csb-itvkl/static/js/2.44bc2482.chunk.js",
+    "static/js/2.44bc2482.chunk.js.map": "https://drjoeycadieux.github.io/csb-itvkl/static/js/2.44bc2482.chunk.js.map",
+    "index.html": "https://drjoeycadieux.github.io/csb-itvkl/index.html",
+    "precache-manifest.f3d247d3b7cef7c6e546cc19980d94be.js": "https://drjoeycadieux.github.io/csb-itvkl/precache-manifest.f3d247d3b7cef7c6e546cc19980d94be.js",
+    "service-worker.js": "https://drjoeycadieux.github.io/csb-itvkl/service-worker.js",
+    "static/css/main.44757ba9.chunk.css.map": "https://drjoeycadieux.github.io/csb-itvkl/static/css/main.44757ba9.chunk.css.map",
+    "static/js/2.44bc2482.chunk.js.LICENSE.txt": "https://drjoeycadieux.github.io/csb-itvkl/static/js/2.44bc2482.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9428b6d.js",
+    "static/js/2.44bc2482.chunk.js",
+    "static/css/main.44757ba9.chunk.css",
+    "static/js/main.a594332b.chunk.js"
+  ]
+}
